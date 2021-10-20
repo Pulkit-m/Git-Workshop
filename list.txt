@@ -1,0 +1,6 @@
+apples
+bananas
+tea
+milk
+eggs
+onions
